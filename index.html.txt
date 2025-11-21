@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sneha Desai - Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="card">
+        <img src="/mnt/data/snehapicture.jpeg" alt="Sneha Desai" class="profile-img">
+
+        <h1>Sneha Desai</h1>
+        <p class="subtitle">Engineering Student at D.Y. Patil College of Engineering, Kolhapur</p>
+
+        <section>
+            <h2>About Me</h2>
+            <p>
+                Hello, my name is Sneha. I am currently pursuing my engineering at D.Y. Patil College of Engineering in Kolhapur, and I am in my second year. I am passionate about learning new technologies and developing projects that solve real-world problems.
+            </p>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>C Programming</li>
+                <li>Good Communication</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Projects</h2>
+            <ul class="projects">
+                <li><b>Sensor Dustbin Project</b></li>
+                <li><b>Alarm Helmet Project</b></li>
+                <li><b>City Connect Project</b></li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:desaisneha029@gmail.com">desaisneha029@gmail.com</a></p>
+        </section>
+    </div>
+
+</body>
+</html>
+<img src="sneha.jpg" alt="Sneha Desai" class="profile-img">
